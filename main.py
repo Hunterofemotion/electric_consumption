@@ -1,0 +1,1 @@
+print('Electric consumption')
